@@ -1,10 +1,10 @@
 {
   "name": "nodejs-helloworld",
   "version": "1.0.0",
-  "description": "Hello World!",
+  "description": "Hello World new test!",
   "main": "app.js",
   "scripts": { "start": "node app.js" },
-  "author": "Red Hat Training",
+  "author": "Red Hat Training New Test",
   "license": "ASL",
   "dependencies": {
     "express": "~4.14.x"
